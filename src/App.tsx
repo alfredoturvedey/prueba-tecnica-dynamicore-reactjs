@@ -10,7 +10,7 @@ const App: FC = () => {
     <Grid container spacing={2} sx={{ padding: 2 }} mt={6}>
       <Grid size={12}>
         <Typography variant="h4" component="div" sx={{ p: 2 }}>
-          Components
+          Componentes
         </Typography>
       </Grid>
       <Grid size={{ xs: 12, sm: 6 }}>
